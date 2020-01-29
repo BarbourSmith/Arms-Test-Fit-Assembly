@@ -19,6 +19,15 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Bottom Plate",
+                    "x": 251,
+                    "y": 267,
+                    "uniqueID": 813960,
+                    "projectID": "229364619",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 374,
