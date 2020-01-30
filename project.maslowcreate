@@ -12,11 +12,32 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Arm Two Maslow 4",
-                    "x": 217,
-                    "y": 104,
+                    "x": 77,
+                    "y": 77,
                     "uniqueID": 871739,
                     "projectID": "236073673",
                     "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 319,
+                    "y": 66,
+                    "uniqueID": 507259,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Rotate",
@@ -56,7 +77,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 37
+                            "ioValue": 47
                         }
                     ]
                 },
@@ -77,15 +98,15 @@
                     "uniqueID": 593877,
                     "ioValues": [
                         {
-                            "name": "3D shape 2",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 3",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 4",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 5",
                             "ioValue": 10
                         }
                     ],
@@ -105,13 +126,20 @@
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 871739,
-                    "ap2ID": 807272
+                    "ap2ID": 507259
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 2",
-                    "ap2Primary": false,
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 871739,
+                    "ap2ID": 807272
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 5",
+                    "ap2Primary": false,
+                    "ap1ID": 507259,
                     "ap2ID": 593877
                 },
                 {

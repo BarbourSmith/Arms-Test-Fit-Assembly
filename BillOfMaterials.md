@@ -4,7 +4,10 @@
  |----|----------|-----|-----|
 |name|23|$0.40|https://www.amazon.com/Amsteel-Blue-64-Rope-Strand/dp/B003YHV3E8|
 |148ZZ Bearing|5|$31.08|https://www.mcmaster.com/7804k116|
+|M6 Locknut|2|$0.05|https://www.mcmaster.com/90576a115|
+|Joint Connector|2|$2.25|https://www.woodcraft.com/products/joint-connector-small-2-1-2-to-3-1-4|
 |JST XH 6 Surface Mount Connector|3|$0.80|www.example.com|
-|Total: |31|$32.28| |
+|20MM Linear Slide|3|$6.00|www.example.com|
+|Total: |38|$40.58| |
 
- 3xCOG MSRP: $96.84
+ 3xCOG MSRP: $121.74
