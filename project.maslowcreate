@@ -63,8 +63,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 539,
-                    "y": 213,
+                    "x": 521,
+                    "y": 147,
                     "uniqueID": 762016,
                     "ioValues": [
                         {
@@ -84,8 +84,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Bottom Plate",
-                    "x": 595,
-                    "y": 275,
+                    "x": 562,
+                    "y": 259,
                     "uniqueID": 813960,
                     "projectID": "229364619",
                     "ioValues": []
